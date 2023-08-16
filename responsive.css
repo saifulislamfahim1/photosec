@@ -1,0 +1,504 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* hero */
+    #herostart #sliderimg2{
+        width: 70%;
+    }
+    #herostart #PHOTOGRAPHY{
+        width: 30%;
+    }
+    /* hero */
+
+/* about */
+    #aboutstert #aboutend{
+        width: 30%;
+    }
+    #aboutstert #aboutimg{
+        width: 70%;
+    }
+/* about */
+
+/* protfolistart */
+    #protfoliostart #protfolio{
+        width: 100%;
+        text-align: center;
+    }
+    #protfoliostart #imageone{
+        width: 50%;
+    }
+    #protfoliostart #imagethree{
+        width: 50%;
+    }
+    #protfolioend #seebutton{
+        margin-top: 50px;
+        width: 14%;
+        text-align: center;
+    }
+/* protfolistart */
+
+
+/* CREATIVE */
+#creativestart #creative{
+    width: 50%;
+}
+#creativestart #whatsubject{
+    width: 50%;
+}
+#creativeend #imageend{
+    width: 50%;
+    margin-top: 10px;
+}
+#creativeend #imagem{
+    width: 50%;
+    margin-top: 10px;
+}
+/* CREATIVE */
+
+
+/* this is TOUCH stert */
+#touchstart #touchimage{
+    width: 70%;
+    margin-top: 10px;
+}
+#touchstart #touchtex{
+    width: 30%;
+    margin-top: 10px;
+}
+/* this is TOUCH end */
+
+
+#footer{
+    width: 100%;
+    text-align: center;
+}
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    /* hero */
+    #herostart #sliderimg2{
+        width: 70%;
+    }
+    #herostart #PHOTOGRAPHY{
+        width: 30%;
+    }
+    /* hero */
+
+    /* about */
+    #aboutstert #aboutend{
+        width: 30%;
+    }
+    #aboutstert #aboutimg{
+        width: 70%;
+    }
+    /* about */
+
+
+    /* protfolio */
+    #protfoliostart #protfolio{
+        width: 100%;
+        text-align: center;
+    }
+    #protfoliostart #imageone{
+        width: 50%;
+    }
+    #protfoliostart #imagethree{
+        width: 50%;
+    }
+    #protfolioend #seebutton{
+        margin-top: 50px;
+        width: 14%;
+        text-align: center;
+    }
+    /* protfolio */
+
+
+    /* CREATIVE */
+#creativestart #creative{
+    width: 50%;
+}
+#creativestart #whatsubject{
+    width: 50%;
+}
+#creativeend #imageend{
+    width: 50%;
+    margin-top: 10px;
+}
+#creativeend #imagem{
+    width: 50%;
+    margin-top: 10px;
+}
+/* CREATIVE */
+
+
+/* this is TOUCH stert */
+#touchstart #touchimage{
+    width: 70%;
+    margin-top: 10px;
+}
+#touchstart #touchtex{
+    width: 30%;
+    margin-top: 10px;
+}
+/* this is TOUCH end */
+
+
+#footer{
+    width: 100%;
+    text-align: center;
+}
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+/* hero */
+    #herostart #sliderimg2{
+        width: 70%;
+    }
+    #herostart #PHOTOGRAPHY{
+        width: 30%;
+    }
+/* hero */
+
+
+/* about */
+    #aboutstert #aboutend{
+        width: 30%;
+    }
+    #aboutstert #aboutimg{
+        width: 70%;
+    }
+    /* about */
+
+
+/* protfolio */
+    #protfoliostart #protfolio{
+        width: 100%;
+        text-align: center;
+    }
+    #protfoliostart #imageone{
+        width: 50%;
+    }
+    #protfoliostart #imagethree{
+        width: 50%;
+    }
+    #protfolioend #seebutton{
+        margin-top: 50px;
+        width: 14%;
+        text-align: center;
+    }
+    /* protfolio */
+
+
+    /* CREATIVE */
+#creativestart #creative{
+    width: 50%;
+}
+#creativestart #whatsubject{
+    width: 50%;
+}
+#creativeend #imageend{
+    width: 50%;
+    margin-top: 10px;
+}
+#creativeend #imagem{
+    width: 50%;
+    margin-top: 10px;
+}
+/* CREATIVE */
+
+
+/* this is TOUCH stert */
+#touchstart #touchimage{
+    width: 70%;
+    margin-top: 10px;
+}
+#touchstart #touchtex{
+    width: 30%;
+    margin-top: 10px;
+}
+/* this is TOUCH end */
+
+
+#footer{
+    width: 100%;
+    text-align: center;
+}
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+ /* hero */   
+    #herostart #sliderimg2{
+        width: 70%;
+    }
+    #herostart #PHOTOGRAPHY{
+        width: 30%;
+    }
+/* hero */
+
+
+/* about */
+    #aboutstert #aboutend{
+        width: 30%;
+        margin-top: 10px;
+    }
+    #aboutstert #aboutimg{
+        width: 70%;
+    }
+/* about */
+
+
+    /* protfolio */
+    #protfoliostart #protfolio{
+        width: 100%;
+    }
+    #protfoliostart #imageone{
+        width: 30%;
+    }
+    #protfoliostart #imagethree{
+        width: 30%;
+    }
+    #protfolioend #seebutton{
+        margin-top: 50px;
+        width: 14%;
+        text-align: center;
+    }
+    /* protfolio */
+
+
+/* CREATIVE */
+#creativestart #creative{
+    width: 50%;
+}
+#creativestart #whatsubject{
+    width: 50%;
+    margin-top: 10px;
+}
+#creativeend #imageend{
+    width: 50%;
+    margin-top: 10px;
+}
+#creativeend #imagem{
+    width: 50%;
+    margin-top: 10px;
+}
+/* CREATIVE */
+
+/* this is TOUCH stert */
+#touchstart #touchimage{
+    width: 70%;
+    margin-top: 10px;
+}
+#touchstart #touchtex{
+    width: 30%;
+    margin-top: 10px;
+}
+/* this is TOUCH end */
+
+
+#footer{
+    width: 100%;
+    text-align: center;
+}
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+ /* hero */   
+    #herostart #sliderimg2{
+        width: 100%;
+    }
+    #herostart #PHOTOGRAPHY{
+        width: 100%;
+    }
+/* hero */
+
+
+/* about */
+    #aboutstert #aboutend{
+        width: 100%;
+    }
+    #aboutstert #aboutimg{
+        width: 100%;
+        margin-top: 10px;
+    }
+/* about */
+
+
+/* protfolio */
+    #protfoliostart #protfolio{
+        width: 100%;
+        text-align: center;
+    }
+    #protfoliostart #imageone{
+        width: 100%;
+        text-align: center;
+    }
+    #protfoliostart #imagethree{
+        width: 100%;
+        margin-top: 10px;
+        text-align: center;
+    }
+    #protfolioend #seebutton{
+        margin-top: 50px;
+        width: 14%;
+        text-align: center;
+    }
+    /* protfolio */
+
+
+    /* CREATIVE */
+#creativestart #creative{
+    width: 100%;
+    text-align: center;
+}
+#creativestart #whatsubject{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+#creativeend #imageend{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+#creativeend #imagem{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+/* CREATIVE */
+
+
+/* this is TOUCH stert */
+#touchstart #touchimage{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+#touchstart #touchtex{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+/* this is TOUCH end */
+
+
+#footer{
+    width: 100%;
+    text-align: center;
+}
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+ /* hero */   
+    #herostart #sliderimg2{
+        width: 100%;
+    }
+    #herostart #PHOTOGRAPHY{
+        width: 100%;
+    }
+/* hero */    
+
+
+/* about */
+    #aboutstert #aboutend{
+        width: 100%;
+    }
+    #aboutstert #aboutimg{
+        width: 100%;
+        margin-top: 10px;
+    }
+/* about */
+
+
+/* protfolio */
+    #protfoliostart #protfolio{
+        width: 100%;
+        text-align: center;
+    }
+    #protfoliostart #imageone{
+        width: 100%;
+        text-align: center;
+    }
+    #protfoliostart #imagethree{
+        width: 100%;
+        margin-top: 10px;
+        text-align: center;
+    }
+    #protfolioend #seebutton{
+        margin-top: 50px;
+        width: 14%;
+        text-align: center;
+    }
+/* protfolio */
+
+
+/* CREATIVE */
+#creativestart #creative{
+    width: 100%;
+    text-align: center;
+}
+#creativestart #whatsubject{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+#creativeend #imageend{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+#creativeend #imagem{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+/* CREATIVE */
+
+
+/* this is TOUCH stert */
+#touchstart #touchimage{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+#touchstart #touchtex{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+/* this is TOUCH end */
+
+#footer{
+    width: 100%;
+    text-align: center;
+}
+  }

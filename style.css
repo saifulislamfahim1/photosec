@@ -1,0 +1,191 @@
+body{
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+    /* background-color: #eeeeee; */
+}
+
+/* this is hero start */
+#herostart #PHOTOGRAPHY{
+    width: 30%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #eeeeee;
+}
+#STUDIO{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 120px;
+}
+#readbutton{
+    margin-top: 20px;
+    width: 170px;
+    height: 45px;
+    background-color: #85310c;
+    border: 2px solid #85310c;
+    color: white;
+    margin-bottom: 71px;
+}
+#readbutton:hover{
+    background-color: #eeeeee;
+    color: #85310c;
+}
+#herostart #sliderimg2{
+    width: 70%;
+    float: left;
+}
+/* this is hero end */
+
+
+/* this is ABOUT start */
+/* #aboutstert{
+    margin-bottom: 50px;
+    box-sizing: border-box;
+} */
+#aboutstert #aboutimg{
+    width: 70%;
+    float: left;
+}
+#aboutstert #aboutend{
+    width: 30%;
+    float: left;
+    background-color: #85310c;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#about{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 48px;
+}
+#long{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+}
+#morebutton{
+    margin-top: 20px;
+    width: 40%;
+    height: 45px;
+    background-color: #531e07;
+    border-style: none;
+    color: white;
+    margin-bottom: 48px;
+    margin-left: 30%;
+}
+#morebutton:hover{
+    background-color: white;
+    color: #531e07;
+}
+/* this is ABOUT end */
+
+/* this is PORTFOLIO start */
+#protfoliostart{
+    padding: 30px;
+    box-sizing: border-box;
+}
+#protfoliostart #protfolio{
+    text-align: center;
+}
+#protfolioone{
+    font-weight: 700;
+    font-size: 40px;
+}
+#protfoliostart #imageone{
+    width: 50%;
+    float: left;
+}
+#protfoliostart #imagethree{
+    width: 50%;
+    float: left;
+}
+
+
+#protfolioend{
+    padding: 30px;
+    box-sizing: border-box;
+}
+#seebutton{
+    margin-top: 50px;
+    width: 10%;
+    height: 40px;
+    background-color: #85310c;
+    border: 1px solid #85310c;
+    color: white;
+    text-align: center;
+    margin-right: 43%;
+    margin-left: 43%;
+    margin-bottom: 50px;
+}
+#seebutton:hover{
+    background-color: #eeeeee;
+    color: #85310c;
+}
+/* this is PORTFOLIO end */
+
+
+/* this is CREATIVE start */
+#our{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+#point{
+    text-align: center;
+    color: white;
+    margin-top: 24px;
+    margin-bottom: 80px;
+}
+#creativestart #creative{
+    width: 50%;
+    background-color: #85310c;
+    float: left;
+}
+#creativestart #whatsubject{
+    width: 50%;
+    float: left;
+}
+
+#creativeend #imageend{
+    width: 50%;
+    float: left;
+}
+#creativeend #imagem{
+    width: 50%;
+    float: left;
+}
+/* this is CREATIVE end */
+
+/* this is TOUCH stert */
+#touchstart #touchimage{
+    width: 70%;
+    float: left;
+    margin-bottom: 40px;
+}
+#touchstart #touchtex{
+    float: left;
+    width: 30%;
+    background-color: #85310c;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+#getin{
+    margin-left: 20px;
+    margin-top: 40px;
+    color: white;
+}
+/* this is TOUCH end */
+
+/* this is footer start */
+#footer{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 30px;
+}
+/* this is footer end */
